@@ -4,7 +4,7 @@
   "description": "Host your own music streaming bot that stays in a channel forever and streams music!",
   "main": "live.jar",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "https": "^1.0.0",
     "shelljs": "^0.8.4"
   },
